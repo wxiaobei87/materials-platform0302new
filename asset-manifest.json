@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/materials-platform/static/css/main.c5cd3e45.css",
+    "main.js": "/materials-platform/static/js/main.6d4f39d4.js",
+    "index.html": "/materials-platform/index.html",
+    "main.c5cd3e45.css.map": "/materials-platform/static/css/main.c5cd3e45.css.map",
+    "main.6d4f39d4.js.map": "/materials-platform/static/js/main.6d4f39d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5cd3e45.css",
+    "static/js/main.6d4f39d4.js"
+  ]
+}
